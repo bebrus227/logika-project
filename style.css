@@ -18,3 +18,17 @@ nav a {
 .ponos {
     text-align: center;
 }
+header a {
+    border-radius:5px;
+    border-color:green;
+    background-color:green;
+    margin:30px;
+    padding:10px;
+}
+.bruh {
+    border-radius:5px;
+    border-color:green;
+    background-color:green;
+    margin:30px;
+    padding:10px;
+}
